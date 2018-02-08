@@ -1,0 +1,56 @@
+Fall 2015
+Intro Computer Science A 3
+Calculus A 4
+Composition and Rhetoric A 3
+Programming Fundamentals A 3
+H Intro to Christianity B 3
+
+Spring 2016
+Advanced Programming Concepts A 3
+Calculus 2 B 3
+Composition and Literature B 3
+American National Government A- 3
+H Ethics B+ 3
+
+Fall 2016
+Assembly And Comp Org A 3
+H Survey of Fine Arts A- 3
+Fit for Living B+ 2
+US to 1877 A 3
+US National Security A 3
+
+Spring 2017
+Database Management System A 3
+Fundamentals of Networking A 3
+System Administration Maint A 3
+Linear Algebra A 3
+Intro to Political Science A 3
+Contemporary Global Issues A 3
+Supreme Court and Constitution A 3
+
+Fall 2017
+Ordinary Differential Equations B+ 3
+Discrete Math B- 3
+Comparative Politics A- 3
+Information System Design and Analysis A 3
+Congress A 3
+Politics in Film B+ 3
+Data Structures B- 3
+
+finished
+Spring 2018
+Software Engineering A 3
+Operating Systems A 3
+Intermediate Analysis A 3
+Numerical Analysis A 3
+Presidency A 3
+Political Logic A 3
+
+Summer 2018
+US History Since 1865 A 3
+
+
+finished
+Retake Discrete raises grade 3.68 to 3.73 (0.05+)
+Retake English raises grade 3.68 to 3.72 (0.04+)
+	BOTH to 3.76 (0.1+)
